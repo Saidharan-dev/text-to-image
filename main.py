@@ -10,7 +10,7 @@ else:
     print("Running on CPU! May be very slow.")
 
 # Hugging Face token (yours)
-HUGGINGFACE_TOKEN = os.getenv("HF_TOKEN")
+HUGGINGFACE_TOKEN = input("ur hugging face token here")
 
 # Load the Stable Diffusion v1.4 pipeline
 pipe = StableDiffusionPipeline.from_pretrained(

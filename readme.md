@@ -4,7 +4,7 @@ Generate stunning images from creative text prompts using Stable Diffusion, Hugg
 
 
 > *Example prompt:* `A futuristic city at night 
-
+![alt text](image.png)
 ---
 
 ## 🚀 Features
